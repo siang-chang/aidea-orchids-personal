@@ -52,6 +52,9 @@ def get_augmentation(factor=0.15):
     return augmentation
 ```
 
+![augmentation](augmentation.png)
+
+
 ## EfficientNet: B3~B7
 
 |      | level | augment | image | epochs | batch |  lr  | dropout | final score |
