@@ -1,8 +1,8 @@
 # Submission History
 
-我們依據使用 Training 資料集得到的評估結果，挑選各自最佳的模型進行上傳，[@Tsao666](https://github.com/Tsao666) 最佳模型（DCNN）的績效為 0.6335，[@Tianming8585](https://github.com/Tianming8585) 最佳模型（ViT）的績效為 0.9188，我的最佳模型績效為 0.8928
+我們依據使用 Training 資料集得到的評估結果，挑選各自最佳的模型進行上傳，[@Tsao666](https://github.com/Tsao666) 最佳模型（DCNN）的績效為 0.6335，[@Tianming8585](https://github.com/Tianming8585) 最佳模型（ViT）的績效為 0.9188，[@siang-chang](https://github.com/siang-chang) 的最佳模型績效為 0.8928
 
-然而，由於比賽上傳日安排在工作日，且當日公司的網路狀況不佳，導致我個人無法順利將 Public 與 Private 資料集上傳至 Google Colab 以進行預測，因此最終僅上傳 [@Tsao666](https://github.com/Tsao666) 與 [@Tianming8585](https://github.com/Tianming8585) 的答案
+然而，由於比賽上傳日安排在工作日，且當日公司的網路狀況不佳，導致 [@siang-chang](https://github.com/siang-chang) 無法順利將 Public 與 Private 資料集上傳至 Google Colab 以進行預測，因此最終僅上傳 [@Tsao666](https://github.com/Tsao666) 與 [@Tianming8585](https://github.com/Tianming8585) 的答案
 
 | datetime            | submission                                                         | public   | private   |
 | :------------------ | :----------------------------------------------------------------- | -------- | --------- |
